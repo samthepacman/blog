@@ -1,0 +1,22 @@
+[submodule "samxblog/themes/JuiceBar"]
+	path = samxblog/themes/JuiceBar
+	url = https://github.com/hotjuicew/hugo-JuiceBar.git
+[submodule "samxblog/themes/paper"]
+	path = samxblog/themes/paper
+	url = https://github.com/nanxiaobei/hugo-paper
+[submodule "samxblog/themes/eureka"]
+	path = samxblog/themes/eureka
+	url = https://github.com/wangchucheng/hugo-eureka.git
+[submodule "samxblog/themes/hugo-theme-console"]
+	path = samxblog/themes/hugo-theme-console
+	url = https://github.com/mrmierzejewski/hugo-theme-console.git
+[submodule "samxblog/themes/pulp"]
+	path = samxblog/themes/pulp
+	url = https://github.com/koirand/pulp.git
+[submodule "samxblog/themes/hugo-coder"]
+	path = samxblog/themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "samxblog/public"]
+	path = samxblog/public
+	url = https://github.com/samthepacman/samthepacman.github.io.git
+	branch = main
