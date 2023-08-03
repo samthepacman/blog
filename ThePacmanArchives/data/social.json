@@ -1,0 +1,19 @@
+{
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/samthepacman",
+      "image": "images/social/github.svg"
+    },
+    {
+      "name": "gitlab",
+      "url": "https://gitlab.com/samthepacman",
+      "image": "images/social/gitlab.svg"
+    },
+    {
+      "name": "email",
+      "url": "https://www.protonmail.com/samthepacman",
+      "image": "images/social/email.svg"
+    }
+  ]
+}

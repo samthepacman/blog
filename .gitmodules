@@ -20,3 +20,9 @@
 	path = samxblog/public
 	url = https://github.com/samthepacman/samthepacman.github.io.git
 	branch = main
+[submodule "ThePacmanArchives/public"]
+	path = ThePacmanArchives/public
+	url = https://github.com/samthepacman/samthepacman.github.io
+[submodule "ThePacmanArchives/themes/hugo-winston-theme"]
+	path = ThePacmanArchives/themes/hugo-winston-theme
+	url = https://github.com/zerostaticthemes/hugo-winston-theme
